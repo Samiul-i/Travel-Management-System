@@ -1,7 +1,7 @@
 package Admin;
 
 import Plane.CustomSizedBasePage;
-//fatin
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
