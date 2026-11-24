@@ -54,6 +54,8 @@ public class PlaneCustomize extends CustomSizedBasePage implements ActionListene
 
         homeButton.addActionListener(this);
         addButton.addActionListener(this);
+         homeButton.addActionListener(this);
+        addButton.addActionListener(this);
 
         displaySavedDestinations();
 
